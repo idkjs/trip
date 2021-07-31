@@ -15,7 +15,7 @@
   "warnings": {
     "error": "+A-d"
   },
-  "ppx-flags": ["bs-let/ppx", "@ahrefs/bs-emotion-ppx/bin/bs-emotion-ppx", "decco/ppx"],
+  "ppx-flags": ["bs-let/ppx", "@ahrefs/bs-emotion-ppx/ppx", "decco/ppx"],
   "suffix": ".bs.js",
   "namespace": true,
   "bs-dependencies": [
@@ -26,6 +26,5 @@
     "bs-fetch",
     "decco",
     "reason-react"
-  ],
-  "refmt": 3
+  ]
 }

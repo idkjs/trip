@@ -1,28 +1,28 @@
 ####{BSB GENERATED: NO EDIT
 B lib/bs
 FLG -open Tripdeer
-FLG -ppx /Users/maxli/workspace/tripdeer/node_modules/bs-let/ppx
-FLG -ppx /Users/maxli/workspace/tripdeer/node_modules/@ahrefs/bs-emotion-ppx/bin/bs-emotion-ppx
-FLG -ppx /Users/maxli/workspace/tripdeer/node_modules/decco/ppx
-FLG -ppx '/Users/maxli/workspace/tripdeer/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
-S /Users/maxli/workspace/tripdeer/node_modules/bs-platform/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/bs-platform/lib/ocaml
-FLG -nostdlib -open Belt
-FLG -w -30-40+6+7+27+32..39+44+45+101
-S /Users/maxli/workspace/tripdeer/node_modules/re-classnames/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/re-classnames/lib/ocaml
-S /Users/maxli/workspace/tripdeer/node_modules/bs-webapi/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/bs-webapi/lib/ocaml
-S /Users/maxli/workspace/tripdeer/node_modules/@ahrefs/bs-emotion/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/@ahrefs/bs-emotion/lib/ocaml
-S /Users/maxli/workspace/tripdeer/node_modules/@ahrefs/bs-react-dates/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/@ahrefs/bs-react-dates/lib/ocaml
-S /Users/maxli/workspace/tripdeer/node_modules/bs-fetch/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/bs-fetch/lib/ocaml
-S /Users/maxli/workspace/tripdeer/node_modules/decco/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/decco/lib/ocaml
-S /Users/maxli/workspace/tripdeer/node_modules/reason-react/lib/ocaml
-B /Users/maxli/workspace/tripdeer/node_modules/reason-react/lib/ocaml
+FLG -ppx /Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-let/ppx
+FLG -ppx /Users/mando/Github/OldCodeWorkshop/trip/node_modules/@ahrefs/bs-emotion-ppx/ppx
+FLG -ppx /Users/mando/Github/OldCodeWorkshop/trip/node_modules/decco/ppx
+FLG -ppx '/Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-platform/darwin/bsc.exe -as-ppx -bs-jsx 3'
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-platform/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-platform/lib/ocaml
+FLG -open Belt
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/re-classnames/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/re-classnames/lib/ocaml
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-webapi/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-webapi/lib/ocaml
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/@ahrefs/bs-emotion/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/@ahrefs/bs-emotion/lib/ocaml
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/@ahrefs/bs-react-dates/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/@ahrefs/bs-react-dates/lib/ocaml
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-fetch/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/bs-fetch/lib/ocaml
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/decco/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/decco/lib/ocaml
+S /Users/mando/Github/OldCodeWorkshop/trip/node_modules/reason-react/lib/ocaml
+B /Users/mando/Github/OldCodeWorkshop/trip/node_modules/reason-react/lib/ocaml
 S src
 B lib/bs/src
 S src/helpers
