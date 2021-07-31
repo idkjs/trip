@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ahrefs/bs-emotion-ppx@^1.0.2-dev.1":
-  version "1.0.2-dev.3"
-  resolved "https://registry.yarnpkg.com/@ahrefs/bs-emotion-ppx/-/bs-emotion-ppx-1.0.2-dev.3.tgz#51281e6c1c35461fd5cb50c582dd04c952697aea"
-  integrity sha512-/RmhNaihMXZA1xAoPrHW5CU3vXrjESQn31A0TLzEehF5feAePugzAtdpECzTqhRNKEaE0HLBUWHw20VMM0JfFA==
+"@ahrefs/bs-emotion-ppx@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@ahrefs/bs-emotion-ppx/-/bs-emotion-ppx-2.0.0.tgz#e46d63453f91b2b453319525ce1bc4a15b2fdfb0"
+  integrity sha512-lBmE0mmcsjp5XyQ+WsJuca1gHyL4x9k8AAz8XqcIzVGuPHx9SPM0+QCoyt6XiL2EBrBBmIXnX+x3218EDvRI9g==
 
 "@ahrefs/bs-emotion@^2.0.0":
   version "2.0.0"
